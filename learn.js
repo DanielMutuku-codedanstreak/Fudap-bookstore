@@ -8,10 +8,7 @@ export default function App() {
 
   return (
     <View style={{ flex: 1, padding: 24 }}>
-      <h2>Welcome to Our Bookstore</h2>
-      <Text>Sorry the App is still in mainteinance mode</Text>
-      <a href='./learn.js'><button>Learn more</button></a>
+            <Text>Sorry for the inconvenience I am new to React native but I am ready to learn through your internship</Text>
     </View>)
  
 }
-
