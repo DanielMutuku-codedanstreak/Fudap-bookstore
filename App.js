@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <View style={{ flex: 1, padding: 24 }}>
-      
+      <h2>Welcome to Our Bookstore</h2>
       <Text>Sorry the App is still in mainteinance mode</Text>
     </View>)
  
