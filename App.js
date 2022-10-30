@@ -8,6 +8,8 @@ export default function App() {
 
   return (
     <View style={{ flex: 1, padding: 24 }}>
+      
+      <Text>Sorry the App is still in mainteinance mode</Text>
     </View>)
  
 }
